@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Form from '../src/components/Form';
+import Form from './components/Form/Form';
 
 /**
  * @config preparing config prop.
